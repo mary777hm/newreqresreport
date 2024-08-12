@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Failed Tests",
+    "matchedStatuses": ["failed"]
+  },
+  {
+    "name": "Broken Tests",
+    "matchedStatuses": ["broken"]
+  },
+  {
+    "name": "Flaky Tests",
+    "matchedStatuses": ["flaky"]
+  },
+  {
+    "name": "Known Issues",
+    "matchedStatuses": ["known"]
+  }
+]
