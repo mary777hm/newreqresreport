@@ -1,0 +1,12 @@
+{
+  "name": "Mary Harutyunyan",
+  "type": "pytest",
+  "reportName": "ReqRes QA Test Report",
+  "buildUrl": "https://github.com/mary777hm/newreqres",
+  "reportUrl": "https://github.com/mary777hm/new_reqres_qa/allure-report",
+  "environment": {
+    "Python": "3.12.2",
+    "OS": "Windows",
+    "IDE": "PyCharm or Visual Studio Code"
+  }
+}
